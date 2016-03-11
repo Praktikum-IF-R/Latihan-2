@@ -1,4 +1,4 @@
-# Latihan2
+# Latihan 2
 
 Cara Mengumpulkan <br />
 1. Fork repository <br />
