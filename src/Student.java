@@ -2,7 +2,7 @@ package praktikumbab2;
 public class Student {
     private String name;
     private String address;
-    private int age;
+    private int umur;
     private double mathGrade;
     private double englishGrade;
     private double scienceGrade;
